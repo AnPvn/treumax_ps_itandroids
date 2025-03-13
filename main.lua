@@ -12,7 +12,7 @@
 -- implementar sistema de deteccao dos blocos ao redor OK
 -- elaborar uma estrutura que relacione as medidas com a tomada de decisao OK
 -- trocar o controle pelo keyboard pelo algoritmo treumax 
--- ajustes finos
+-- ajustes finos OK
 
 -- sprites:
 spr_chao = 0
